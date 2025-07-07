@@ -42,7 +42,7 @@ p {
     align-items: center;
     padding: 10px 0;
     position: center;
-    top: 50px;
+    top: 100px;
     width: 50%;
 }
 
@@ -51,8 +51,9 @@ p {
     color: #000000;
     margin: 0 15px;
     font-size: 18px;
-    text-align: left;
     text-color: #000000;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 
