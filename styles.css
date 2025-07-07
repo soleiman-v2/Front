@@ -41,14 +41,14 @@ p {
     justify-content: left;
     align-items: center;
     padding: 10px 0;
-    position: relative;
+    position:center;
     top: 50px;
     width: 50%;
 }
 
 .contentbody a {
     text-decoration: none;
-    color: #333;
+    color: #black;
     margin: 0 15px;
     font-size: 18px;
 }
