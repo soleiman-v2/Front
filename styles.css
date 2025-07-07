@@ -42,10 +42,6 @@ p {
 .contentbody {
     display: flex;
     padding: 10px 0;
-
-    
-
-
     width: 50%;
     border: 2px dotted rgb(96 139 168);
     margin: auto;
