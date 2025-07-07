@@ -22,7 +22,6 @@ p {
 .navbar {
     display: flex;
     padding: 10px 0;
-    position: relative;
     top: 0;
     width: 100%;
 
