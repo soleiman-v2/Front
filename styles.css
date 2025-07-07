@@ -45,8 +45,8 @@ p {
     position: relative;
     top: 100px;
     width: 50%;
-    border: 1px;
-    border-color: #000000;
+    background-color: DodgerBlue;
+
 }
 
 .contentbody a {
