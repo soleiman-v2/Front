@@ -39,5 +39,21 @@ p {
     color: #333;
 }
 
+.contentbody {
+    display: flex;
+    padding: 10px 0;
+    width: 50%;
+    border: 2px dotted rgb(96 139 168);
+    margin: auto;
 
+}
+
+.contentbody a {
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+    color: #000000;
+    text-align: justify;
+    text-justify: inter-word;
+}
 
